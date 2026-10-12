@@ -1,7 +1,7 @@
 {
   "name": "兵庫ベース運行情報チェッカー",
   "short_name": "運行情報",
-  "description": "大型トラック用・便別の公式交通情報確認と記録",
+  "description": "高速優先・便別の公式交通情報へのアクセスと手動確認記録（リアルタイムAPI未接続）",
   "lang": "ja",
   "start_url": "./index.html",
   "scope": "./",
